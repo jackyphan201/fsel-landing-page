@@ -1,0 +1,251 @@
+{
+  "fig_assets": [
+    {
+      "asset": "learn-courses-screen.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/2b634afcbac05136fdebdd856213794052a67e05",
+      "sha256": "1585f51ed10f06d657b7578165df08c30a9eaeca776bb092d1df65fd7503910a"
+    },
+    {
+      "asset": "learn-planet-ai.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/82b7d741e524982f237ac7f42a0f2ffe8af4cc9d",
+      "sha256": "cb9a538728849b1b437a88fde5dce21cebe4c889ead254b565eba5f4f686e1f3"
+    },
+    {
+      "asset": "lesson-screen.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/c82ed6777d4b9a4803e3e62e410c0dc001b011fc",
+      "sha256": "4eb7b23a6ad0dafce341a31dc1f0cbf6249378f97b00c76c7994c847021181db"
+    },
+    {
+      "asset": "learn-planet-castle.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/bfe8014aa458c98e8f4e4d583572b05dc2599c39",
+      "sha256": "c02a383cfdd7708681f665db723d946f450e6930037cf4175fadc6129ef63dcc"
+    },
+    {
+      "asset": "learner-dashboard.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/eca6f8067776931f2902c5a6390597c510aa3050",
+      "sha256": "d43d44baa889974508b7a735384d6a1c90586042cf60fecccb3917a3cd8483fe"
+    },
+    {
+      "asset": "admin-progress.png",
+      "source": "LMS Admin Update 1.1.fig",
+      "embedded_path": "images/fd4ecb81782720c7f0e1b9a7a22472ef6f041c30",
+      "sha256": "9a45ecaafc338fab9ac4d4f56dbd63af781170e60b3d60a7db808965ac7f1e69"
+    },
+    {
+      "asset": "learn-planet-forest.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/69efab5cef24a8b9434382e2399d74a543867d0e",
+      "sha256": "caefe02810ecb31965cc86b3e07951cefc86570684b81d1b9891be102040b67a"
+    },
+    {
+      "asset": "reading-screen.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/2ddc76652a2937d1fcbc1f0e653d5138f237deea",
+      "sha256": "c466d88869ca21460fd287f42c95f0b8187874f9e5de0233faeecabdda7c0500"
+    },
+    {
+      "asset": "speaking-screen.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/6e1b505054324144c04c2d9bcc715b77222cffcf",
+      "sha256": "0ab4e69bf831c100044291ccce92b7ea9bd8aa24223dbcee427442355381cc24"
+    },
+    {
+      "asset": "learn-universe.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/ac886cd5270302307f7e3956af4c7475d25d6128",
+      "sha256": "70e56c827b2284c54527f9a8b55f9a7c43c23bb3dadd75cc20ef3d466ff61f43"
+    },
+    {
+      "asset": "learn-planet-space.png",
+      "source": "LMS_WEB_V1.2.2.fig",
+      "embedded_path": "images/05a4e11bd708e323087da2c5b41957d67902a0a7",
+      "sha256": "5fc546a2064c91520816a73cf9c6df032bc2e77ae77235749a83f9f454c76e50"
+    }
+  ],
+  "web_assets": [
+    {
+      "file": "Banner3.png",
+      "source": "https://fsel.edu.vn/Banner3.png"
+    },
+    {
+      "file": "Banner4.png",
+      "source": "https://fsel.edu.vn/Banner4.png"
+    },
+    {
+      "file": "Banner5.png",
+      "source": "https://fsel.edu.vn/Banner5.png"
+    },
+    {
+      "file": "Banner8.png",
+      "source": "https://fsel.edu.vn/Banner8.png"
+    },
+    {
+      "file": "DigitalisationV1_05 1.png",
+      "source": "https://fsel.edu.vn/DigitalisationV1_05 1.png"
+    },
+    {
+      "file": "DigitalisationV1_06.png",
+      "source": "https://fsel.edu.vn/DigitalisationV1_06.png"
+    },
+    {
+      "file": "DigitalisationV1_08 1.png",
+      "source": "https://fsel.edu.vn/DigitalisationV1_08 1.png"
+    },
+    {
+      "file": "DigitalisationV2_03 1.png",
+      "source": "https://fsel.edu.vn/DigitalisationV2_03 1.png"
+    },
+    {
+      "file": "Menu1.png",
+      "source": "https://fsel.edu.vn/Menu1.png"
+    },
+    {
+      "file": "Star.png",
+      "source": "https://fsel.edu.vn/Star.png"
+    },
+    {
+      "file": "19cfc7226ec3afaa-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/19cfc7226ec3afaa-s.woff2"
+    },
+    {
+      "file": "21350d82a1f187e9-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/21350d82a1f187e9-s.woff2"
+    },
+    {
+      "file": "8e9860b6e62d6359-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/8e9860b6e62d6359-s.woff2"
+    },
+    {
+      "file": "BG.fd394fff.png",
+      "source": "https://fsel.edu.vn/_next/static/media/BG.fd394fff.png"
+    },
+    {
+      "file": "BannerBG.a6b7e2ab.png",
+      "source": "https://fsel.edu.vn/_next/static/media/BannerBG.a6b7e2ab.png"
+    },
+    {
+      "file": "Inter-Regular.1282ebc6.ttf",
+      "source": "https://fsel.edu.vn/_next/static/media/Inter-Regular.1282ebc6.ttf"
+    },
+    {
+      "file": "Jura-Bold.560d14ac.ttf",
+      "source": "https://fsel.edu.vn/_next/static/media/Jura-Bold.560d14ac.ttf"
+    },
+    {
+      "file": "Jura-Light.1b64bff4.ttf",
+      "source": "https://fsel.edu.vn/_next/static/media/Jura-Light.1b64bff4.ttf"
+    },
+    {
+      "file": "Vector.fe7e006c.png",
+      "source": "https://fsel.edu.vn/_next/static/media/Vector.fe7e006c.png"
+    },
+    {
+      "file": "ba9851c3c22cd980-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/ba9851c3c22cd980-s.woff2"
+    },
+    {
+      "file": "c5fe6dc8356a8c31-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/c5fe6dc8356a8c31-s.woff2"
+    },
+    {
+      "file": "df0a9ae256c0569c-s.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/df0a9ae256c0569c-s.woff2"
+    },
+    {
+      "file": "e4af272ccee01ff0-s.p.woff2",
+      "source": "https://fsel.edu.vn/_next/static/media/e4af272ccee01ff0-s.p.woff2"
+    },
+    {
+      "file": "banner01.jpg",
+      "source": "https://fsel.edu.vn/banner01.jpg"
+    },
+    {
+      "file": "banner2.png",
+      "source": "https://fsel.edu.vn/banner2.png"
+    },
+    {
+      "file": "coreValuesLeft.png",
+      "source": "https://fsel.edu.vn/coreValuesLeft.png"
+    },
+    {
+      "file": "corevaluesMobile.png",
+      "source": "https://fsel.edu.vn/corevaluesMobile.png"
+    },
+    {
+      "file": "evaluate1.png",
+      "source": "https://fsel.edu.vn/evaluate1.png"
+    },
+    {
+      "file": "evaluate2.png",
+      "source": "https://fsel.edu.vn/evaluate2.png"
+    },
+    {
+      "file": "evaluate3.png",
+      "source": "https://fsel.edu.vn/evaluate3.png"
+    },
+    {
+      "file": "iconInStudent.png",
+      "source": "https://fsel.edu.vn/iconInStudent.png"
+    },
+    {
+      "file": "on_button.png",
+      "source": "https://fsel.edu.vn/on_button.png"
+    },
+    {
+      "file": "student1.png",
+      "source": "https://fsel.edu.vn/student1.png"
+    },
+    {
+      "file": "student2.png",
+      "source": "https://fsel.edu.vn/student2.png"
+    },
+    {
+      "file": "student3.png",
+      "source": "https://fsel.edu.vn/student3.png"
+    },
+    {
+      "file": "teacher1.png",
+      "source": "https://fsel.edu.vn/teacher1.png"
+    },
+    {
+      "file": "teacher2.png",
+      "source": "https://fsel.edu.vn/teacher2.png"
+    },
+    {
+      "file": "teacher3.png",
+      "source": "https://fsel.edu.vn/teacher3.png"
+    },
+    {
+      "file": "teacher4.png",
+      "source": "https://fsel.edu.vn/teacher4.png"
+    },
+    {
+      "file": "teacher5.png",
+      "source": "https://fsel.edu.vn/teacher5.png"
+    },
+    {
+      "file": "teacher6.png",
+      "source": "https://fsel.edu.vn/teacher6.png"
+    },
+    {
+      "file": "teacher7.png",
+      "source": "https://fsel.edu.vn/teacher7.png"
+    },
+    {
+      "file": "zalo.png",
+      "source": "https://fsel.edu.vn/zalo.png"
+    }
+  ],
+  "generated_media": [
+    {
+      "file": "lesson-design-demo.mp4",
+      "method": "12s silent still video from lesson-screen.png; not original lesson footage"
+    }
+  ],
+  "imagegen": false
+}
